@@ -56,6 +56,4 @@ This repo includes a GitHub Actions workflow (`.github/workflows/deploy.yml`) th
 
 Data is sourced from public disclosures. Dashboard code is provided as-is for informational purposes.
 
----
 
-*Prepared by A2MF Capital*
